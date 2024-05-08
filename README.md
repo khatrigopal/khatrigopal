@@ -17,7 +17,7 @@
 
 
 - 💻 I’m a DevOps enthusiast
-- 💟 Kubernetes, Docker, Python, CICD Pipelines, Clouds, IaaC and yes Open Sources
+- 💟 Kubernetes, Docker, GitHub Actions, CICD Pipelines, Azure, Azure DevOps, IaaC and yes Open Sources
 - 🐱 Sharing acquired expertise
 - ✋ Ask me about anything, I'm happy to help!
 - 📥 How to reach me: khatri.gopal@gmail.com
